@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Smarty 3 template engine
 ##Distribution repository
 
@@ -50,3 +51,7 @@ Which is a wrapper to install all 3 packages
 
 
 Composer can also be used for Smarty2 versions 2.6.24 to 2.6.28
+=======
+# Smarty-Basic
+Smarty Basic
+>>>>>>> 83080436e9d8b6ca1e2773fccc4524b389245272
