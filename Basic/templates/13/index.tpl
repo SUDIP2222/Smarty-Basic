@@ -1,0 +1,2 @@
+{$articleTitle}
+{$articleTitle|lower}

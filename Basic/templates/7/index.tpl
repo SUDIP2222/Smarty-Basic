@@ -1,0 +1,4 @@
+
+
+
+      {$articleTitle|cat : ' Yesterday .'}
